@@ -321,7 +321,7 @@ section {
   }
 }
 section.hero-right {
-  background-image: url('./assets/10.png');
+  background-image: url('10.png');
   background-color: $black;
   background-repeat: no-repeat;
   background-size: 150%;
@@ -410,7 +410,7 @@ section.hero-right {
       -moz-appearance: none; 
       /* for Safari, Chrome, Opera */ 
       -webkit-appearance: none; 
-      background-image: url('./assets/icons/chevron.svg');
+      background-image: url('icons/chevron.svg');
       background-repeat: no-repeat;
       background-position: 96% center;
       background-size: 18px;
@@ -445,7 +445,7 @@ section.hero-right {
   }
 }
 section.white-left {
-  background-image: url('./assets/14.png');
+  background-image: url('14.png');
   background-color: #b1b1b1;
   background-repeat: no-repeat;
   background-size: 150%;
@@ -485,7 +485,7 @@ section.white-left {
   }
 }
 section.hero-center {
-  background-image: url('./assets/15.png');
+  background-image: url('15.png');
   background-color: $black;
   background-repeat: no-repeat;  
   background-size: 160%;
@@ -570,7 +570,7 @@ section.hero-center {
       &::after {
         content: '';
         background-color: $white;
-        background-image: url('./assets/icons/arrowsmall.svg');
+        background-image: url('icons/arrowsmall.svg');
         background-repeat: no-repeat;
         display: block;
         width: 57px;
@@ -648,7 +648,7 @@ section.carousel-wrapper  {
     padding-left: 80px;
     font-family: $font-family-subtitles;
     font-size: 1.5rem;
-    background-image: url('./assets/icons/blackonwhit.svg');
+    background-image: url('icons/blackonwhit.svg');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left center;
@@ -714,7 +714,7 @@ section.carousel-wrapper  {
   
 }
 section.hero-left {
-  background-image: url('./assets/12.png');
+  background-image: url('12.png');
   background-color: $black;
   background-repeat: no-repeat;  
   background-size: cover;
@@ -757,7 +757,7 @@ section.hero-left {
   }
 }
 section.faq {
-  background-image: url('./assets/11.png');
+  background-image: url('11.png');
   background-color: rgba(220,220,220, 0.9);
   background-blend-mode: color-dodge;
   height: 60vh;
@@ -808,7 +808,7 @@ section.faq {
     }
     summary {
       & {
-        background-image: url('./assets/icons/arrow.svg');
+        background-image: url('icons/arrow.svg');
         background-repeat: no-repeat;
         background-size: 20px;
         background-position: right center;
@@ -935,7 +935,7 @@ section.fleetbrand {
   }  
 }
 section.hero-background {
-  background-image: url('./assets/7.png');
+  background-image: url('7.png');
 }
 footer {
   padding: 5rem 1rem;
