@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 22" width="41" height="22">
+	<title>chevron</title>
+	<defs>
+		<image  width="40" height="21" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAVCAMAAAADxFwsAAAAAXNSR0IB2cksfwAAAMNQTFRFfHx8fHx8g4ODlpaWTU1NVVVVfX194ODgkpKSTk5Ofn5+x8fH/Pz84+Pjjo6OUlJSf39/xcXF9/f3/////f395eXljIyMVlZW5OTkioqKV1dXVFRUxsbGWFhYU1NTe3t7yMjIiYmJeHh4y8vL+Pj4i4uLUFBQdHR0z8/P+fn5jY2Nb29v1NTU+vr6/v7+kJCQbGxs2NjY4eHhlJSUbm5u+/v73t7elZWVc3Nz3d3dl5eXd3d3kZGRT09PxMTEiIiIgoKCU1BGHgAAAEF0Uk5Tnv//TP//mwBZ/5gAAABl/5MAAAAAAGz/AHH//wD//6EAdaoAAG//twAAaMcAAABf0AAAUcoAAE+6AEmuXP8AeItOL1MTAAAA2UlEQVR4nI3S2RaBUBQG4GMooky/iEhkqMiceXr/p5JYSZ3Svv7WnglJJYo0yWSTBMOSXJ5L4ApFwgul8l9XqdYI6mKj+d+BAJBa7TgnFzo1uNCR3Win9FTHvSGEfmT18kAbwoOQRjLdjSe6AR+EaI5pjpvOLPzAubSgueXq4zwIfr0J192uDAQh7N0+OMdh5jkfhHU8/e7lrFugQVg7/4fIPc0AHTry2yfDqkNEQdi5y/Xj3LtFQvCCqbju9QdxEHOx1XzluwVcCDrX7LdlthN0FAjh/lBDDk+QcSxfppiDQAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="1" y="0"/>
+</svg>
