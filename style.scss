@@ -619,7 +619,7 @@ section.carousel-wrapper  {
     
     @media($layout-bkp-large) {
       & {
-        height: 70vh;
+        height: 100vh;
       }
     }
   }
@@ -779,7 +779,7 @@ section.faq {
   }
   @media($layout-bkp-large) {
     & {
-      height: 70vh;
+      height: 100vh;
     }
     @media($layout-bkp-extra-large) {
       & {
